@@ -1,12 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Islam-AI.Ahmed-Islam-AI" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mushaf-Khalil.MushafKhalil" />
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Islam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mushaf+Khalil!;" />
 </h1>
 
 
-<h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
+<h3 align="center">A passionate  Software Engineer from Pakistan</h3>
+<h4 align="center">AI/ML/DL, MOBILE APP DEV, WEB DEV</h4>
 
 <br/>
 
