@@ -2,8 +2,9 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mushaf+Khalil!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00A86B&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mushaf+Khalil!;" />
 </h1>
+
 
 
 <h3 align="center">A passionate  Software Engineer from Pakistan</h3>
@@ -75,5 +76,6 @@
 <br/>
 <hr/>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+✌️;+Shoot+Me+Message+On+LinkedIn!;+I'm+Always+Down+To+Collab+:)" />
-</h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=00A86B&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+✌️;+Shoot+Me+Message+On+LinkedIn!;+I'm+Always+Down+To+Collab+:)" />
+</h3>
+
