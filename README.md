@@ -16,9 +16,9 @@
   
 👾 I’m currently learning **Deep Learning, Computer Vision, NLP**
 
-🌱 I’m currently working on **AI & Ml solution for Adaptive code language learning on Android **
+🌱 I’m currently working on AI & Ml solution for Adaptive code language learning on Android 
 
-💬 Ask me about **Machine Learning, Data Science, LinkedIn growth, Personal Branding, and much more**
+💬 Ask me about Machine Learning, Data Science, LinkedIn growth, Personal Branding, and much more
 
  </div>
  
